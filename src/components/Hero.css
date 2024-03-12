@@ -1,0 +1,108 @@
+.hero{
+   
+    margin: auto;
+    width: 1125px;
+    height: 613px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   margin-top: 30px;
+}
+
+.hero-left{
+    display: flex;
+    flex-direction: column;
+    height: 613px;
+    width: 595px;
+    background-color: white;
+    gap: 24px;
+
+}
+
+.hero-right{
+    height: 487.06px;
+    width: 530px;
+    background-color: white;
+   
+    
+}
+
+.headingLSS{
+    height:306px;
+    width: 595px;
+    line-height: 102px;
+    font-weight: 800;
+    font-size: 108px;
+}
+
+.paraLSS{
+    height: 91px;
+    width: 404px;
+    font-size: 16px;
+    font-weight: 600;
+    color: gray;
+    white-space: pre-wrap;
+}
+
+.buttonsLSS{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    height: 41px;
+    width: 331px;
+}
+
+.button1{
+    background-color: #D01C28;
+    color: white;
+    height: 41px;
+    width: 150px;
+    padding: 6px 16px ;
+    font-size: 18px;
+}
+
+.button2{
+    width: 141px;
+    height: 41px;
+    padding: 6px 16px;
+    background-color: white;
+    color: gray;
+    border: 1px solid gray;
+    font-size: 18px;
+    font-weight: 600;
+    align-items: center;
+    justify-content: center;
+}
+
+.shopLSS{
+    display: flex;
+    height: 67px;
+    width: 131px;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.shopLSS-para{
+    width: 131px;
+    height: 19px;
+    font-size: 16px;
+    color: gray;
+}
+
+.shopLSS-icons{
+    width: 80px;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}
+
+.flipkart{
+    height: 32px;
+    width: 32px;
+}
+
+.amazon{
+    width: 32px;
+    height: 32px;
+}

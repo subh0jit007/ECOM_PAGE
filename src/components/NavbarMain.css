@@ -1,0 +1,34 @@
+.navbar{
+    max-width: 1440px;
+    height: 72px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 76px;
+    height: 42.75px;
+    margin-left:85px;
+    margin-top: 15px;
+}
+
+.nav-list{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin: 24px 333px 0 333px;
+gap: 24px;
+font-weight: bold;
+}
+
+.login-button{
+    width: 75px;
+    height: 32px;
+    padding: 6px 16px;
+    margin-top: 24px;
+    background-color: #D01C28;
+    color: white;
+    font-weight: 500;
+}
+
